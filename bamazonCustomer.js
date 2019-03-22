@@ -96,7 +96,7 @@ function start() {
             });
         connection.end();
     });
-    // unexpected token appears here and if fixed it says no function nor argument is passed inbetween
+  
 }
 
 
