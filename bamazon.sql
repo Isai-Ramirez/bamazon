@@ -4,7 +4,7 @@ DROP DATABASE IF EXISTS bamazondb;
 CREATE DATABASE bamazondb;
 
 -- specifying which datatbase we are using 
-USE bamazondb:
+USE bamazondb;
 
 -- creating the table inside the database that contains all of our information 
 CREATE TABLE products(
