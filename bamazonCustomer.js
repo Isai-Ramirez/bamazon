@@ -24,7 +24,7 @@ connection.connect(function (err) {
 });
 
 function queryAllproducts() {
-    connection.query("SELECT * FROM songs", function (err, res) {
+    connection.query("SELECT * FROM products", function (err, res) {
         for (var i = 0; i < res.length; i++) {
             console.log(res[i].item_id + " | " + res[i].product_name + " | " + res[i].price);
         }
