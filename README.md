@@ -5,4 +5,5 @@ https://drive.google.com/file/d/1H31qIT0tiqUib9YkJFAGrPy-xnSEfkbO/view
 it started doing that when i added the function that got the items to make them into an array and ask the customer what item they wanted. when i got rid of it i diplayed the items with the initial query then i started the my function and query for buy the items again from scratch which ended up with the unexpected token error thing 
 
 
+![](img/1.png)
 ![](img/2.png)
